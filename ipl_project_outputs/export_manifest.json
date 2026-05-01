@@ -1,0 +1,36 @@
+{
+  "tables": [
+    "ipl_project_outputs/test_results_comparison.csv",
+    "ipl_project_outputs/search_method_comparison.csv",
+    "ipl_project_outputs/random_search_trials.csv",
+    "ipl_project_outputs/optuna_trials.csv",
+    "ipl_project_outputs/global_shap_importance.csv",
+    "ipl_project_outputs/optimizer_ablation.csv",
+    "ipl_project_outputs/regularization_ablation.csv",
+    "ipl_project_outputs/venue_error_analysis.csv",
+    "ipl_project_outputs/analysis_predictions.csv"
+  ],
+  "figures": [
+    "ipl_project_outputs/baseline_loss_curve.png",
+    "ipl_project_outputs/random_search_convergence.png",
+    "ipl_project_outputs/optuna_convergence.png",
+    "ipl_project_outputs/optuna_best_loss_curve.png",
+    "ipl_project_outputs/search_method_comparison.png",
+    "ipl_project_outputs/ablation_comparison.png",
+    "ipl_project_outputs/test_metric_comparison.png",
+    "ipl_project_outputs/roc_curves_test.png",
+    "ipl_project_outputs/precision_recall_curves_test.png",
+    "ipl_project_outputs/hardest_venues_error_rate.png",
+    "ipl_project_outputs/confusion_matrix_dummy_baseline.png",
+    "ipl_project_outputs/confusion_matrix_simple_mlp_baseline.png",
+    "ipl_project_outputs/confusion_matrix_best_random_search_mlp.png",
+    "ipl_project_outputs/confusion_matrix_best_bayesian_optuna_mlp.png",
+    "ipl_project_outputs/shap_global_summary.png",
+    "ipl_project_outputs/shap_local_waterfall_sample0.png",
+    "ipl_project_outputs/shap_local_waterfall_misclassified.png"
+  ],
+  "files": [
+    "ipl_project_outputs/project_summary.json",
+    "ipl_project_outputs/project_summary.txt"
+  ]
+}

@@ -1,0 +1,8 @@
+- Best test-set model: Simple MLP baseline
+- Best test accuracy: 0.5244
+- Best test F1: 0.3607
+- Best test ROC-AUC: 0.5663
+- Random Search trials/runtime: 50 trials / 173.20s
+- Bayesian Optimization trials/runtime: 50 trials / 188.05s
+- Best Random Search params: {'learning_rate': 0.00045560883012629716, 'batch_size': 128, 'dropout_rate': 0.5, 'hidden_units': 64, 'optimizer': 'rmsprop'}
+- Best Optuna params: {'learning_rate': 0.00019746733539895237, 'batch_size': 128, 'dropout_rate': 0.2, 'hidden_units': 256, 'optimizer': 'sgd'}

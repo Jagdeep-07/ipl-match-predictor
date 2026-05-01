@@ -1,0 +1,16 @@
+venue,test_matches,accuracy,error_rate
+"Arun Jaitley Stadium, Delhi",12,0.3333333333333333,0.6666666666666667
+"Barsapara Cricket Stadium, Guwahati",3,0.3333333333333333,0.6666666666666667
+"Brabourne Stadium, Mumbai",3,0.3333333333333333,0.6666666666666667
+"Rajiv Gandhi International Stadium, Uppal, Hyderabad",13,0.38461538461538464,0.6153846153846154
+"Dr DY Patil Sports Academy, Mumbai",5,0.4,0.6
+"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",5,0.4,0.6
+"Eden Gardens, Kolkata",16,0.5,0.5
+"M Chinnaswamy Stadium, Bengaluru",14,0.5,0.5
+"Wankhede Stadium, Mumbai",20,0.5,0.5
+"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",5,0.6,0.4
+"MA Chidambaram Stadium, Chepauk, Chennai",18,0.6111111111111112,0.38888888888888884
+"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",13,0.6153846153846154,0.3846153846153846
+"Narendra Modi Stadium, Ahmedabad",19,0.6842105263157895,0.3157894736842105
+"Sawai Mansingh Stadium, Jaipur",10,0.7,0.30000000000000004
+"Himachal Pradesh Cricket Association Stadium, Dharamsala",4,0.75,0.25
